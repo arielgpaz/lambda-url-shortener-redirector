@@ -23,3 +23,7 @@ short URL, the Lambda function retrieves the original URL from S3 and performs a
 * Java 21
 * Maven
 * Lombok
+
+## Next Steps
+
+* Create infra with Terraform
